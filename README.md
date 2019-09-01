@@ -27,4 +27,5 @@ Launcher will scan over it ,shows up in Settings Menu
 
 ## Resources
 
-[💎 Sketch resource](https://github.com/canisminor1990/gameshell-skin-canisminor/raw/master/canisminor.sketch)
+- [💎 Sketch resource](https://github.com/canisminor1990/gameshell-skin-canisminor/raw/master/canisminor.sketch)
+- [Gameshell Launcher Modify](https://github.com/canisminor1990/gameshell-launcher)
