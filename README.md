@@ -23,3 +23,8 @@ Launcher will scan over it ,shows up in Settings Menu
 
 ![](https://github.com/canisminor1990/gameshell-skin-canisminor/blob/master/preview.png?raw=true)
 
+<br/>
+
+## Resources
+
+[💎 Sketch resource](https://github.com/canisminor1990/gameshell-skin-canisminor/raw/master/canisminor.sketch)
