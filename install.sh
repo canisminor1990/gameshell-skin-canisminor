@@ -1,0 +1,1 @@
+cp -avx ./wallpaper/* ~/launcher/sys.py/gameshell/wallpaper
